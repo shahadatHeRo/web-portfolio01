@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins';font-size: 22px;
+}
+
+h1{
+    font-size: 35px;
+}
+.Name-Highlite{
+    color: orangered;
+}
+.Half-wight{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.Half-wight img{
+    width: 100%;
+}
